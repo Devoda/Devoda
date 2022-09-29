@@ -1,8 +1,9 @@
 # A la découverte de Figma.com (Edition community)
 
-<img src="https://raw.githubusercontent.com/Devoda/Devoda/main/domifa.png" />
 
 <!--
+<img src="https://raw.githubusercontent.com/Devoda/Devoda/main/domifa.png" />
+
 **Devoda/Devoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
