@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently listening https://www.youtube.com/watch?v=OxZgXXftdK4
+- 🌱 I’m currently listening https://www.youtube.com/watch?v=MevmYXbUJR0
